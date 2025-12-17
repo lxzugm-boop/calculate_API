@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana PRO Calculator",
+  "description": "Онлайн калькулятор стоимости использования API Gemini (Nano Banana PRO) для оценки бюджета проекта.",
+  "requestFramePermissions": []
+}
